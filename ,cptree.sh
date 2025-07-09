@@ -1,5 +1,5 @@
 #!/bin/sh
-# Arguments: SRC DST
+# Arguments: SRC DST [RSYNC_ARGS...]
 #
 # Copy directory structure from SRC to DST, i.e. copy only dirs.
 
