@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Play the "The Matrix has you..." animation on your terminal.
 
 Reworked from <https://github.com/narkhy/MatrixHasYou> to use `curses`
